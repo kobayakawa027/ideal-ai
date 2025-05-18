@@ -1,0 +1,10 @@
+[
+  {
+    "id": "idea-001",
+    "title": "音声入力による検索機能",
+    "path": "ideas/idea-001-voice-search.md",
+    "tags": ["音声認識", "検索機能"],
+    "status": "要検討",
+    "created_at": "2025-05-18"
+  }
+]
